@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="item1" android:id="@+id/menu_item1" android:icon="@drawable/icons8_advertising_48" />
+    <item android:title="item2" android:id="@+id/menu_item2" android:icon="@drawable/icons8_arrow_48"/>
+    <item android:title="item3" android:id="@+id/menu_item3" android:icon="@drawable/icons8_attach_48"/>
+    <item android:title="item4" android:id="@+id/menu_item4" android:icon="@drawable/icons8_user_male_48" android:showAsAction="always"/>
+    <item android:title="item5" android:id="@+id/menu_item5" android:icon="@drawable/icons8_exit_48" />
+</menu>
